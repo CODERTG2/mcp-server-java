@@ -1,0 +1,8 @@
+{
+    "jsonrpc": "2.0",
+    "method": "tools/call",
+    "params": {
+        "progress": 50,
+        "total": 100
+    }
+}

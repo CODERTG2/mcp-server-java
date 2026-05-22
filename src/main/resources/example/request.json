@@ -1,0 +1,12 @@
+{
+    "jsonrpc": "2.0",
+    "id": 1,
+    "method": "tools/call",
+    "params": {
+        "tool": "get_weather",
+        "args": {
+            "location": "Gurgaon",
+            "unit": "celsius"
+        }
+    }
+}
